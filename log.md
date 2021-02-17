@@ -10,6 +10,17 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 2: February 16, 2021 
+##### 
+
+**Today's Progress**: Worked on Algo basic array and Math problem.
+
+**Thoughts:** felt like product of array was more of a math question and had a hard time figuring it out
+
+**Link to work:** 
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
 ### Day 1: February 15, 2021 
 ##### Start
 
