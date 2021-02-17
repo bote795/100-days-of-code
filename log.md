@@ -10,6 +10,17 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 3: February 17, 2021 
+##### 
+
+**Today's Progress**: Worked on Algo basic array.
+
+**Thoughts:** - had a hard time figuring how to do the efficent way instead of setting up loops and just going around. I knew there had to be a better way but couldnt come up with it
+
+**Link to work:** 
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+2. [3Sum](https://leetcode.com/problems/3sum/)
+
 ### Day 2: February 16, 2021 
 ##### 
 
