@@ -10,6 +10,16 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 5: February 19, 2021
+
+**Today's Progress**: Continued on yesterdays Algo problem and continued new portfolio.
+
+**Thoughts:** I enjoyed these problems more but maybe because I actually new where to start.
+
+**Link to work:** 
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
 ### Day 4: February 18, 2021
 
 **Today's Progress**: Continued on yesterdays Algo problem and started new portfolio.
