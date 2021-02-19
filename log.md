@@ -10,6 +10,14 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 4: February 18, 2021
+
+**Today's Progress**: Continued on yesterdays Algo problem and started new portfolio.
+
+**Thoughts:** I still struggled with the Algo Problem it was pretty hard for me even though I worked on it yesterday. I choose a very basic template to use for our new portfolio going for more minimalistic not going to have a lot more just links.
+
+**Link to work:** [3Sum](https://leetcode.com/problems/3sum/)
+
 ### Day 3: February 17, 2021 
 ##### 
 
