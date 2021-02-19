@@ -12,9 +12,9 @@
 --->
 ### Day 5: February 19, 2021
 
-**Today's Progress**: Continued on yesterdays Algo problem and continued new portfolio.
+**Today's Progress**: Continued on yesterdays Algo problem and finished new portfolio.
 
-**Thoughts:** I enjoyed these problems more but maybe because I actually new where to start.
+**Thoughts:** I enjoyed these problems more but maybe because I actually new where to start. Portfolio might be to simple now and I didnt do many changes to the template hope that doesn't count against me. 
 
 **Link to work:** 
 1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
