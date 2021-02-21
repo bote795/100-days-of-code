@@ -10,6 +10,13 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 6: February 20, 2021
+
+**Today's Progress**: Worked at cloning instagram project and learning Tailwind Css.
+
+**Thoughts:** Tailwind looks fun but there is so much to learn.
+
+
 ### Day 5: February 19, 2021
 
 **Today's Progress**: Continued on yesterdays Algo problem and finished new portfolio.
