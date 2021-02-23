@@ -10,6 +10,22 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 8: February 22, 2021
+
+**Today's Progress**: Continued on Algo problem.
+
+**Thoughts:** I was able to solve this problem more easily with more time but kept refactoring to speed up time.
+
+**Link to work:** 
+1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+### Day 7: February 21, 2021
+
+**Today's Progress**: continued on cloning instagram project
+
+**Thoughts:** I enjoyed on trying to get faster again on writing html and css.
+
+
 ### Day 6: February 20, 2021
 
 **Today's Progress**: Worked at cloning instagram project and learning Tailwind Css.
