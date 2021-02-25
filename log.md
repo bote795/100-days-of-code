@@ -10,6 +10,25 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 10: February 24, 2021
+
+**Today's Progress**: Continued algorithms and continued working on cloning Instagram dashboard specifically the header.
+
+**Thoughts:** Had trouble with Algo problem. Was enjoying working on instagram learned a bit more about hooks and context. Sadly my hand is bleh so need to stop early.
+
+**Link to work:** 
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+### Day 9: February 23, 2021
+
+**Today's Progress**: Continued algorithms and continued working on cloning Instagram dashboard.
+
+**Thoughts:** Pretty easy Algo problems have done them a lot. But the detect cycle was harder for me because I knew how to solve it but couldnt figure out how to wrap my head around it.
+
+**Link to work:** 
+1. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+2. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+
 ### Day 8: February 22, 2021
 
 **Today's Progress**: Continued on Algo problem.
