@@ -10,6 +10,33 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 13: February 27, 2021
+
+**Today's Progress**: Enhanced the timeline to show skeleton when no pictures are available and setup api to retrieve pics.
+
+**Thoughts:** learned more about creating custom hooks, context, and using google firstore api to store information and retrieve with an array.
+
+**Link to work:** 
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+### Day 12: February 26, 2021
+
+**Today's Progress**: No progress compared to yesterday.
+
+**Thoughts:** kept looking at yesterdays problem but not sure how much i got from it, will need to revist.
+
+**Link to work:** 
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+### Day 11: February 25, 2021
+
+**Today's Progress**: Continued algorithms.
+
+**Thoughts:** Had trouble with Algo problem, was able to do slow approach but not log(n) approach with binary search.
+
+**Link to work:** 
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 ### Day 10: February 24, 2021
 
 **Today's Progress**: Continued algorithms and continued working on cloning Instagram dashboard specifically the header.
