@@ -10,6 +10,19 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 14: February 28, 2021
+
+**Today's Progress**: Worked on some Algos and read some caching system stuff.
+
+**Thoughts:** felt more comfortable working with the sliding window.
+**Link to work:** 
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+    - had trouble understanding problem, but use sliding window approach with some character frequency
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    - after being able to do some examples was able to come up with a sliding window solution that was O(n)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+    - started on it but had to leave
+
 ### Day 13: February 27, 2021
 
 **Today's Progress**: Enhanced the timeline to show skeleton when no pictures are available and setup api to retrieve pics.
