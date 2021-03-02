@@ -10,6 +10,16 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+
+### Day 15: March, 2021 
+##### Started algo coding study group
+
+**Today's Progress**: Six Algo problems.
+
+**Thoughts:** Was able to easily do the algo problems I had done before but it was sad that i even struggled with some of the easier problems. I had a solution but not the most optimal.
+
+**Link to work:** [Algo problems](https://github.com/CheetCodes/Cheetcode-Study-Prep-March-2021/pull/20)
+
 ### Day 14: February 28, 2021
 
 **Today's Progress**: Worked on some Algos and read some caching system stuff.
